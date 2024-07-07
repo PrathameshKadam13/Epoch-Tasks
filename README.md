@@ -1,0 +1,6 @@
+- Completed first task 1 almost mysef
+- Sorry didn't added datasets due to time constraint
+- In second task I tried to avoid using gpt and surfed other online references
+- 2 Other files added are part of my academic project under IITH prof. KSRM
+- Project is NLP project in my mother tongue MARATHI and involves speech recognition using CTC algorithm
+- We haven't started documentation of our project but I'll add latest presentation file
