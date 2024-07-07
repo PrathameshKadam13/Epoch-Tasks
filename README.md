@@ -1,4 +1,4 @@
-- Completed first task 1 almost mysef
+- Completed first task 1 almost myself
 - Sorry didn't added datasets due to time constraint
 - In second task I tried to avoid using gpt and surfed other online references
 - 2 Other files added are part of my academic project under IITH prof. KSRM
